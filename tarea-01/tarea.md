@@ -103,11 +103,20 @@ De acuerdo al material de la NASA, todas las habilidades son necesarias y releva
 - Guía y manejo del cambio; comunica y establece los planes de cambio, entiende la urgencia, se vuelve un catalizador, un campeón del cambio. 
 - Guía al equipo y organización; entiende el rol vital del equipo, maneja los conflictos, es inclusivo y tiene valores enfocados al liderazgo.
 
-En realidad, todos y cada uno de los conceptos enlistados en el documento deben ser necesarios para impulsar el cambio organizacional, en mayor o menor medida. Como lo vimos en The Flight of the Buffalo, estar consciente de la urgencia del cambio. Citando a Seth Godin:
+En realidad, todos y cada uno de los conceptos enlistados en el documento deben ser necesarios para impulsar el cambio organizacional, en mayor o menor medida. Como lo vimos en The Flight of the Buffalo, estar consciente de la urgencia del cambio. Citando a Seth Godin (2009):
 
 > They say the best time to look for a job is when you don't need one. And the best time to invest in a new Purple Cow is when you're still milking the old one. Move your emergency back in time and you'll be amazed at how far your money goes.
+
+Estar atento a estos cambios, detectarlos y promover una cultura de innovación es sólo el primer paso. Para hacer efectivamente un cambio organizacional se requieren recursos, apoyo del capital humano y una visión bien definida de lo que se tiene que lograr.
 
 ---
 
 ### Conclusiones
 
+Uno de los mejores jefes que he tenido no sólo era un líder carismático; también lo era nato y tenía una idea muy clara de lo que quería lograr con la gente. Aunque no ear particularmente bueno para la comunicación escrita (entre otros detalles), estaba muy consciente de sus alcances y limitaciones; de sus pros y sus contras. Cuando un problema de un área en la que él no era muy apto, nos permitía al equipo guiar y orientar el curso de acción.
+
+*Sabía que no sabía*, un concepto tan sencillo como importante, ya que de tener una idea equivocada de sus habilidades, podría truncar el proyecto. En lugar de eso, simple y sencillamente servía como una guía y un facilitador para lograr los objetivos del equipo, que nosotros mismos habíamos determinado. Un líder que no es autocrítico va a seguir cometiendo errores en áreas que no domina; pero como no sabe este hecho, va a entorpecer el avance del equipo.
+
+Otro detalle impresionante de este líder era involucrar al equipo pidiendo la opinión incluso en áreas que no dominábamos: buscando un contrapunto, otro enfoque, e incluso, un abogado del diablo. El clima organizacional era de confianza y de apertura. Nadie se sentía amenazado por decirle no a una idea. Incluso creo que hay una posibilidad de que haya sido una táctica para elevar la moral del equipo; para hacernos creer que somos importantes y que nuestra opinión vale.
+
+Y eso es lo interesante del tema; dependemos y utilizamos cada día más la tecnología. Tenemos la totalidad del conocimiento humano en nuestras manos, y aún así, seguimos siendo tan humanos, dependiendo de nuestros sentimientos, anhelos y circunstancias para llegar a los objetivos que trazamos; o ser víctima de estos y sabotear nuestro propio éxito.
