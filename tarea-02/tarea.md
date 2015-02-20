@@ -27,6 +27,21 @@ El diario ABC Color publica un interesante artículo (ABC Color, 2006) que compa
 
 El panorama que pinta este artículo suena demasiado sombrío. Las diferencias varían de país a país, evidentemente, haciendo más amplia la brecha, o acortándola según sea el caso. Afortunadamente, la tecnología ha acortado esta desigualdad: hoy por hoy, habitantes de países en vías de desarrollo pueden competir directamente por trabajos que pueden hacerse vía Internet. El conocimiento está disponible para quien tenga una computadora y una conexión a la red, cuyos costos han disminuido significativamente en los últimos años.
 
+#### Cultura de alto y bajo contexto
+
+Un importante concepto especialmente útil en negociaciones, pero no exclusiva a esta, el el modelo de contextos de las culturas. Edward T. Hall (Wikipedia) propuso un esquema en el que separa la importancia o irrelevancia de las formas, en contraste al fondo del mensaje:
+
+- **Cultura de alto contexto** es aquella en la cual los rituales, tradiciones, muestras de respeto y manejo de tiempos son tan importantes como el mismo tema que se va a tratar.
+- **Cultura de bajo contexto** es cuando en una cultura las formas son irrelevantes o poco importantes.
+
+Los casos más extremos los podemos ver en una negociación con estadounidenses, en la cual una cena y un apretón de manos es lo más que se requiere para comenzar la negociación. Estas culturas van al grano del asunto inmediatamente; su contexto es bajo.
+
+La otra cara de la moneda está con los japoneses: una cultura en la que las formas son necesarias para comenzar una relación armoniosa. Desde el saludo inicial (en el que un apretón de manos resulta ajeno), la forma de expresarse (11 palabras para expresar el pronombre "tú/usted") y al menos media decena de factores a considerar para evitar parecer irrespetuoso incluso antes de comenzar a hablar de dinero.
+
+La separación es muy obvia: países sajones, conocidos por lo pragmáticos y fríos en su manera de ser, son culturas de bajo contexto. El resto, incluyendo latinoamericanos y orientales, somos culturas de contexto alto.
+
+Posiblemente, en el caso de los países con lenguas romance, el mismo lenguaje sea el que define el alto contexto: hablarle a alguien de "tú" o de "usted", mientras que en inglés, se define el nivel de respeto no por el pronombre, sino por el contexto de la oración. Algo similar pasa con idiomas como el japonés o el chino.
+
 #### Culture code
 
 En su libro The Culture Code (Rapaille, 2007), el autor hace un extenso estudio para entender lo que realmente significa un concepto, pasando de vez en cuando por las diferencias culturales entre países. Su experiencia, utilizando su área de estudio, la psicología, como método para explorar la mente humana en un contexto de mercadotecnia, lo llevó a este interesante análisis del subconsciente.
@@ -76,3 +91,11 @@ Al comprender el contexto de sus clientes y compañeros, Floyd Lee dejó de ser 
 ---
 
 ### Conclusión
+
+Las relaciones humanas son complicadas. Las relaciones humanas, en un contexto diferente al propio, lo son más. Comprender estas diferencias son la clave para establecer vínculos armónicos, bien comunicados y fructíferos, ya sea en una relación de trabajo, de negocios, de empleados e incluso de clima laboral.
+
+Desafortunadamente no existe una fórmula, ni una guía para comunicarse con éxito con un país determinado. Incluso si existiera, este instructivo se haría obsoleto en pocos años. La cultura es un ente orgánico, que se va adaptando a los tiempos. Estudiarlo es la primera parte para lograr una comunicación eficiente, sin problemas de entendimiento y sin llegar a ser irrespetuoso con la cultura. El siguiente paso es tratar de ser empático y entender la cultura. El paso final, tal vez el más díficl, sea utilizar el sentido común y tener una mente abierta.
+
+Hay una anécdota de un intérprete de un diplomático que se encontraba en otro país. Uno de los anfitriones comenzó a contar un chiste, a lo que el intérprete le dice al diplomático: "este chiste es imposible de traducir, por favor, ríase cuando lo termine de contar".
+
+A veces simplemente tenemos que reírnos aunque no hallamos entendido.
