@@ -14,6 +14,19 @@ En este documento examinaremos la importancia de comprender el contexto cultural
 
 De los 968 millones de habitantes en América (Wikipedia), 605 millones somos latinoamericanos (Wikipedia). Prácticamente 2 de cada 3 habitantes hablamos español o portugués como nuestra lengua natal. Esta es la primera diferencia importante de muchas que hay en latinoamérica, que pueden ser compartidas por dos o más países.
 
+#### Diferencias entre América Latina y América Anglosajona
+
+El diario ABC Color publica un interesante artículo (ABC Color, 2006) que compara las diferencias entre los países latinos y anglosajones en América.
+
+- **Desarrollo y subdesarrollo** - Los países subdesarrollados dependen económica, social y políticamente de otros más poderosos. Las actividades agropecuarias son predominantes, mientras que hay poco desarrollo industrial, distribución inequitativa de la riqueza y los problemas sociales son subalimentación, analfabetismo y alta tasa de mortalidad. Por el contrario, los países desarrollados satisfacen las necesidades básicas de sus ciudadanos y facilita las secundarias. Poseen un importante desarrollo urbano así como dominio económico, político y social sobre una o más naciones.
+- **Población urbana y rural** - Los países desarrollados tienen a más del 70% de su población viviendo en áreas urbanas; en los países subdesarrollados esta cifra llega apenas al 50%.
+- **Urbanización** - Limitada en economías débiles; en superpotencias, los ciudadanos tienen casa propia y van a trabajar en sus carros.
+- **Recursos naturales** - Ambos con potencial de explotarlo, pero con gran desigualdad en países subdesarrollados debido a la falta de tecnología y a la corrupción que da contratos a empresas extranjeras.
+- **Economía** - La base en países desarrollados es la industria: tecnología, telecomunicaciones, informática, automóviles. Por el contrario, en países subdesarollados se enfoca fuertemente a actividades primarias.
+- **Esperanza de vida** - 75 años en países desarollados; 65 en subdesarrollados.
+
+El panorama que pinta este artículo suena demasiado sombrío. Las diferencias varían de país a país, evidentemente, haciendo más amplia la brecha, o acortándola según sea el caso. Afortunadamente, la tecnología ha acortado esta desigualdad: hoy por hoy, habitantes de países en vías de desarrollo pueden competir directamente por trabajos que pueden hacerse vía Internet. El conocimiento está disponible para quien tenga una computadora y una conexión a la red, cuyos costos han disminuido significativamente en los últimos años.
+
 #### Culture code
 
 En su libro The Culture Code (Rapaille, 2007), el autor hace un extenso estudio para entender lo que realmente significa un concepto, pasando de vez en cuando por las diferencias culturales entre países. Su experiencia, utilizando su área de estudio, la psicología, como método para explorar la mente humana en un contexto de mercadotecnia, lo llevó a este interesante análisis del subconsciente.
@@ -46,7 +59,7 @@ El autor también compara algunas diferencias con diferentes países:
 - *Dinero*, en Francia se considera grotesco traer al tema en una comida el tema del dinero; sin embargo, el tema del sexo es un tema perfectamente aceptable.
 - *Comida*, en Francia, los alimentos son un placer, y por lo tanto, al proceso se le da la importancia de un arte.
 
-Evidentemente este texto está muy enfocado a Estados Unidos. Aunque los conceptos son prácticamente universales en nuestro continente, las diferencias culturales entre países anglosajones y latinos es notoria, por lo que se le debe dar la importancia adecuada.  
+Evidentemente este texto está muy enfocado a Estados Unidos, desafortunadamente un texto similar no existe para el contexto en latinoamérica. Aunque los conceptos son prácticamente universales en nuestro continente, las diferencias culturales entre países anglosajones y latinos es notoria, por lo que se le debe dar la importancia adecuada.  
 Aún así este libro sirve para entender patrones de comportamiento y motivaciones de por qué las cosas suceden. Comprender estos conceptos es el primer paso para tomar provecho de estos.
 
 #### *I am not just in charge of food service; I am in charge of morale*
