@@ -16,9 +16,38 @@ De los 968 millones de habitantes en América (Wikipedia), 605 millones somos la
 
 #### Culture code
 
-En su libro The Culture Code (Rapaille, 2007), el autor hace un extenso estudio por contrastar las diferencias culturales entre países. Su experiencia, utilizando su área de estudio, la psicología, como método para explorar la mente humana en un contexto de mercadotecnia, lo llevó a este interesante análisis del subconsciente.
+En su libro The Culture Code (Rapaille, 2007), el autor hace un extenso estudio para entender lo que realmente significa un concepto, pasando de vez en cuando por las diferencias culturales entre países. Su experiencia, utilizando su área de estudio, la psicología, como método para explorar la mente humana en un contexto de mercadotecnia, lo llevó a este interesante análisis del subconsciente.
 
+A continuación se presenta un breve resumen de los códigos más importantes que ha encontrado:
 
+- El código para *trabajo* es *quién eres*.  
+Cuando conocemos a alguien, una de las preguntas más frecuentes es "¿a qué te dedicas?". Esta es una forma sutil de preguntar ¿quién eres?. Al saber cuál es su función en la vida, como si fuese una máquina, comenzamos a trazar una imagen mental de esta persona: si está satisfecha, si cree que su empleo es motivador, si es bien compensado, si es feliz. Una persona desempleada tiene un sentimiento de ser inútil, de estar en este mundo para nada.
+- El código para *dinero* es *prueba*.  
+Muy relacionado al punto anterior, la historia entre el trabajo y el dinero es como si en un juicio fuera el argumento y la evidencia; si falta el primero, carece de sustancia; si falta el segundo, carece de valor factual. Esperamos que un exitoso empresario sea remunerado bien; la parte de "exitoso" no es tan relativo a qué tan bien haga su trabajo, sino a qué tanto gana por ese trabajo. Y por esta razón, ambos se deben sustentar, uno al otro. Gente que ha ganado una importante cantidad en la lotería (o por medios ilícitos) tienen problemas para encajar con la sociedad: clase media o clase alta, por igual. La razón es muy sencilla; se siguen comportando como gente sin dinero, pero el hecho es que lo tienen, por lo tanto la sociedad trabajadora los rechaza. Y la alta sociedad sólo encuentra pruebas de la riqueza; no sustento. Son ricos pero no se comportan como ricos, por lo tanto no pueden encajar.
+- El código para *amor* es *falsas expectativas*.  
+Hace falta entrar a un contexto totalmente diferente para entender sus motivaciones, así como las nuestras. En sociedades orientales, como la japonesa, las familias acuerdan uniones matrimoniales de sus hijos. Para nosotros podría parecer un duro revés en contra de nuestras libertades; ellos piensan que una decisión tan importante de ver con quién un hijo va a pasar el resto de su vida no puede ser tomada por alguien tan joven. Las familias estudian a otras familias (y candidatos) en el contexto social, económico y cultural. Las cifras hablan por sí mismas: la tasa de divorcio en Japón es del 2%. En nuestro contexto, tenemos falsas expectativas acerca de lo que una pareja nos puede traer.
+- El código para *salud* es *movimiento*.  
+Cuando tenemos una enfermedad, el mundo es horrible: nos sentimos mal, debemos de abandonar la rutina diaria, dormir más y depender de otros. Cuando estamos enfermos perdemos movimiento. La salud nos permite movernos a donde deseemos; sin esta, estaremos a merced de las inclemencias de la vida, dependiendo de alguien más para volver a nuestro estado ideal.
+- El código para *comida* es *combustible*.  
+"Estoy lleno". Esta es una frase que utilizamos para decir que el hambre ha cesado y estamos satisfechos. Como si se tratara de un carro cuyo tanque ha sido llenado por completo para seguir trabajando.
+- El código para *ir de compras* es *reconectar con la vida*.  
+Compramos cosas por que las necesitamos, pero esta es simplemente la excusa; lo hacemos para salir de nuestras casas, para reconectarnos con el mundo. Es una experiencia social que la hacemos con extraños o con propios por igual; vamos en familia, con amigos, con compañeros de trabajo.
+- El código para *juventud* es *máscara*.  
+Maquillaje, operaciones, Photoshop. Cuando decimos que alguien se ve bien «para su edad» estamos halagando a esa persona, como si envejecer fuera una enfermedad. Mientras otras culturas ven a los ancianos como fuente de sabiduría y seres venerables, en el occidente tratamos de evitarlo a toda costa.
+- El código para *obesidad* es *dejarse caer*.  
+Cuando vemos a alguien que ha tenido algunos días difíciles y vemos que ha subido de peso, entendemos que es grave. Comer de más, junto con la vida sedentaria característica de una etapa depresiva, llevarán a la obesidad, y nuestro contexto cultural nos dirá que algo está muy mal con esa persona.
+- El código para *cena* es *círculo esencial*.  
+Como si la vida diaria fuera una batalla, cerramos el día con una cena en familia. Es en este momento donde nos conectamos de nuevo con nuestra tribu: ¿cómo te fue, cómo estuvo el día, qué hiciste? Utilizamos este momento de relajación para cerrar un día y prepararnos a abrir otro que comenzará otro círculo que terminará con la cena en el siguiente día.
+
+El autor también compara algunas diferencias con diferentes países:
+
+- *Queso*, en Francia es un ente *vivo*. Es fresco, se califica por su olor y se compra para ser almacenado a temperatura ambiente. Por otro lado, en EUA, el queso es un ente *muerto*, se pasteuriza, se vende en pedazos plastificados y se guarda en la morgue, también conocido como refrigerador.
+- *Carros*, mientras que en Alemania el código es *ingeniería*, en Estados Unidos es *identidad*; el fondo no son relevantes, las formas sí. Los vehículos tienen que ser grandes, ruidosos, lujosos y cómodos.
+- *Dinero*, en Francia se considera grotesco traer al tema en una comida el tema del dinero; sin embargo, el tema del sexo es un tema perfectamente aceptable.
+- *Comida*, en Francia, los alimentos son un placer, y por lo tanto, al proceso se le da la importancia de un arte.
+
+Evidentemente este texto está muy enfocado a Estados Unidos. Aunque los conceptos son prácticamente universales en nuestro continente, las diferencias culturales entre países anglosajones y latinos es notoria, por lo que se le debe dar la importancia adecuada.  
+Aún así este libro sirve para entender patrones de comportamiento y motivaciones de por qué las cosas suceden. Comprender estos conceptos es el primer paso para tomar provecho de estos.
 
 ---
 
