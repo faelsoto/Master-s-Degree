@@ -49,6 +49,17 @@ El autor también compara algunas diferencias con diferentes países:
 Evidentemente este texto está muy enfocado a Estados Unidos. Aunque los conceptos son prácticamente universales en nuestro continente, las diferencias culturales entre países anglosajones y latinos es notoria, por lo que se le debe dar la importancia adecuada.  
 Aún así este libro sirve para entender patrones de comportamiento y motivaciones de por qué las cosas suceden. Comprender estos conceptos es el primer paso para tomar provecho de estos.
 
+#### *I am not just in charge of food service; I am in charge of morale*
+
+Un profundo entendimiento del contexto cultural puede transformar radicalmente la visión del trabajo que se está realizando. En Made to Stick (Heath, 2007) se cuenta una inspiradora historia de Floyd Lee, un cocinero jubilado de los marines con 25 años de servicio que volvió del retiro cuando comenzó la guerra con Irak.
+
+Todos los cocineros recibían los mismos ingredientes. En su comedor, de nombre Pegasus, quería que la comida fuera especial. Comprendía el tremendo trabajo que un soldado tenía a diario: el estrés, el peligro constante. Quería que Pegasus fuera un oasis en el cual el soldado olvidara, al menos por unos minutos, la dura realidad que vivía.  
+La misión de Floyd era clara: "como yo lo veo, no sólo estoy a cargo del comedor; estoy a cargo de la moral del equipo".
+
+> This vision manifests itself in hundreds of small actions taken by Lee’s staff on a daily basis. At Pegasus, the white walls of the typical mess hall are covered with sports banners. There are gold treatments on the windows, and green tablecloths with tassels. The harsh fluorescent lights have been replaced by ceiling fans with soft bulbs. The servers wear tall white chef’s hats. Lee realizes that serving food is a job, but improving morale is a mission. Improving morale involves creativity and experimentation and mastery. Serving food involves a ladle. One of the soldiers who commute to Pegasus for Sunday dinner said, "The time you are in here, you forget you’re in Iraq."
+
+Al comprender el contexto de sus clientes y compañeros, Floyd Lee dejó de ser un simple cocinero y se puso la misión de ser un motivador. Cuando somos empáticos con el esfuerzo de otros, resulta fácil cambiar el enfoque y dejar de pensar en nuestro trabajo como algo que hay que hacer, sino una misión que tiene que brillar, independientemente de los recursos que tengamos a la mano.
+
 ---
 
 ### Conclusión
