@@ -1,5 +1,9 @@
 ### Introducción
 
+Para lograr eficientemente sus objetivos, las organizaciones necesitan orden, análisis y planeación. La planeación estratégica ayuda a definir el rumbo; los análisis FODA son una guía para encontrar áreas fuertes y débiles, que sirven para establecer la visión estratégica; la matriz BCG son otra guía para reconocer las virtudes de una empresa.
+
+Todas estas herramientas son necesarias no sólo en la etapa de planeación, sino en todo el proceso organizacional. Recordemos que las empresas son un ente orgánico, uno que requiere constantes cambios y ajustes sobre la marcha. Conocer el proceso, así como sus virtudes, resulta fundamental para lograr una adecuada dirección organizacional, tanto en el sentido estratégico como en el táctico.
+
 ---
 
 ### Análisis FODA
@@ -76,3 +80,7 @@ Estas estructuras son las más comunes. Existen más de una docena de formas de 
 ---
 
 ### Conclusiones
+
+Como ya vimos, todas estas herramientas establecen patrones y guías que las empresas pueden utilizar para mejorar sus estructuras jerárquicas, así como de áreas y qué hacen cada una de ellas.
+
+Sin embargo, las herramientas no trabajan por sí mismas; se requiere de una dirección con conciencia del proceso constante en el que se establecerán pautas organizacionales. Con el crecimiento, la tecnología, los competidores y la globalización, las organizaciones tendrán que reaccionar más rápido para lograr una eficiencia mayor. De lo contrario, sus mismas estructuras limitarán la capacidad de reacción.
