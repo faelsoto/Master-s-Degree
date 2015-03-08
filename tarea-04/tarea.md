@@ -1,5 +1,9 @@
 ### Introducción
 
+En el proceso administrativo, la planeación es un paso clave para el éxito de la administración. No podemos saber si vamos hacia el rumbo correcto si no sabemos a dónde vamos. Un plan es un mapa que permite guiar el rumbo de una organización. Con tantas opciones para eficientizar el negocio, expandir la cartera de productos o de clientes, abrir nuevas sucursales, crear nuevos negocios, utilizar la tecnología para reducir costos e, incluso, despedir a clientes, son muchos rumbos posibles de acción. Si se tomaran todos al mismo tiempo, difícilmente se llegará al éxito organizacional.
+
+Lo que nos lleva al otro tema que tocaremos en este ensayo: toma de decisiones. Si en el aspecto personal es complicado, y, en ocasiones, nuestras propias decisiones terminan afectándonos, con más razón en un esquema organizacional, donde los individuos tienen ideas, paradigmas y puntos de vista diferentes. Y también intereses propios. Aquí es donde exploraremos los modelos, barreras, ética y otras cuestiones en torno a la toma de decisiones.
+
 ---
 
 ### Toma de decisiones
@@ -88,3 +92,9 @@ Las razones por las cuales ejercer un liderazgo ético van desde moldear el comp
 ---
 
 ### Conclusiones
+
+La planeación y la toma de decisiones no deben ser tomadas a la ligera. No sólo el futuro está a expensas de esto; también el presente. En ambientes grupales es fundamental que el respeto, la cordura, el consenso y la ética estén siempre presentes. El líder tiene un trabajo complicado en este aspecto, principalmente porque a pesar de todos los datos y evidencia, la decisión correcta puede ser la que las contradiga.
+
+Un buen líder debe ser consciente de todos los elementos que se deben tomar en cuenta para tomar una decisión. Entender las barreras resulta fundamental; en especial el exceso de confianza, no sólo propio sino de otros. Probablemente todos nos hemos encontrado con una situación de una persona que claramente no entiende el problema al cien porciento, pero cree que lo hace y tiende a simplificar la solución, sin entender las aristas más complicadas; mientras el experto en el tema tiende a referirse a la cuestión con más precaución, incluso con cierto nerviosismo. El experto «sabe que no sabe», mientras que la persona con menos experiencia «no sabe que no sabe».
+
+El prestigio de un líder está permanentemente en riesgo. Se amplifica gravemente cuando la ética está inmiscuida, hay decisiones tan complejas que cualquier opción va a tener repercusiones negativas. Este es un hecho que debemos entender y respetar; el líder éticamente debe ser juzgado por sus intenciones, no por el resultado final.
