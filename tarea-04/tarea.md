@@ -58,6 +58,33 @@ Al tomar una decisión, especialmente en el ambiente organizacional, existen una
 
 Es importante tener siempre en cuenta estos sesgos y efectos psicológicos, buscar opiniones de terceros que no estén inmiscuidos en la situación, evaluar nuestro desempeño pasado y entender cuáles de estas nos afectan.
 
+#### Implicaciones éticas
+
+Como muchas acciones dentro de una organización, la toma de decisiones no está exenta de implicaciones éticas; un cambio puede ocasionar la pérdida de empleo de algunas personas, cuantiosas multas por parte de las autoridades e incluso la bancarrota. Hacer lo correcto es difícil.
+
+El modelo de liderazgo ético (Caja de herramientas comuntarias) presenta una interesante solución a un tema tan complicado. Si nuestra decisión fuera precedida o tuviera como consecuencia los siguientes escenarios, ¿lo haríamos?
+
+1. Un niño detrás - ¿la haríamos si hubiera niños viéndonos?
+2. Portada de un periódico - ¿nos gustría vernos publicados en la primera página de un periódico local?
+3. Regla de oro - ¿nos gustaría ser el receptor de la acción o la decisión?, es decir, «tratar a otros como nos gustaría que nos trataran a nosotros»
+4. Regla sobre universalidad - ¿estaría bien si todos hicieran lo mismo?
+
+Si la respuesta es afirmativa en las cuatro cuestiones, es probable que la decisión o acción sea verdaderamente ética.
+
+##### Liderazgo ético
+
+Se basa en 7 componentes:
+
+1. Dejar de lado el ego y los intereses personales
+2. El deseo de alentar ideas diferentes y que se desafíen las propias
+3. Estimular el liderazgo en otros
+4. Hacer que la discusión acerca de cuestiones éticas sean parte de la cultura del grupo
+5. Mantener y expandir la competencia que se le debe a quienes confiaron en el líder para llevar la organización en la dirección correcta y con los métodos efectivos
+6. Aceptar las responsabilidades
+7. Entender el poder del liderazgo y usarlo bien
+
+Las razones por las cuales ejercer un liderazgo ético van desde moldear el comportamiento ético en la organización, establecer confianza, brindar credibilidad para el líder y la organización y motivar la colaboración hasta crear un buen ambiente de trabajo, dar calidad de autoridad moral, permitir dignidad y simple y sencillamente que es la manera correcta de hacer las cosas.
+
 ---
 
 ### Conclusiones
