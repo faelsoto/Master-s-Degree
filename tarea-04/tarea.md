@@ -44,6 +44,20 @@ Propuesto por Herbert A. Simon, este modelo supone que hay límites en la toma d
 2. La imposibilidad de anticipar las consecuencias de los actos deseados
 3. La limitante de que un individuo no puede concebir todas las posibles soluciones al problema
 
+#### Barreras que obstaculizan la toma de decisiones
+
+Al tomar una decisión, especialmente en el ambiente organizacional, existen una serie de barreras que impiden una elección adecuada (Borchardt), mismas que veremos a continuación.
+
+1. Exceso de confianza personal - Creer demasiado en nosotros mismos puede ocultarnos la solución de un problema.
+2. Sesgo de confirmación - Es un efecto psicológico en el que nos enfocamos solamente en evidencia y datos en los que creemos.
+3. La trampa del costo hundido - Se basa en el hecho de que cuando le invertimos tiempo y recursos a una actividad, se dificulta abandonarlo, debido a que no podemos desprendernos de algo que le hemos invertido tanto.
+4. El efecto de frescura - Los datos recientes se vuelven más importantes que los de mayor antigüedad.
+5. Sesgo de anclaje - Se refiere al efecto psicológico que nos lleva a «anclarnos» al primer dato que tenemos.
+6. El efecto de exceso de confianza - La tendencia a sobre-estimar nuestras propias habilidades.
+7. Correlaciones ilusorias - Se refiere a relacionar dos eventos totalmente independientes para sacar conclusiones.
+
+Es importante tener siempre en cuenta estos sesgos y efectos psicológicos, buscar opiniones de terceros que no estén inmiscuidos en la situación, evaluar nuestro desempeño pasado y entender cuáles de estas nos afectan.
+
 ---
 
 ### Conclusiones
