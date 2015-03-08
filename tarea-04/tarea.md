@@ -6,6 +6,42 @@ Lo que nos lleva al otro tema que tocaremos en este ensayo: toma de decisiones. 
 
 ---
 
+### Planeación
+
+En el proceso administrativo, la planeación es el paso en el que se define el rumbo que la organización tomará.
+
+#### Tipos de planes
+
+Los planes pueden ser catalogados en tres tipos (tiposde.org):
+
+1. Planes operativos - Definen el rol de un individuo en cuestión; se espera sean ejecutados en el corto plazo.
+2. Planes tácticos - Se relacionan con áreas o departamentos de una organización; trazan el rumbo general de dicha área.
+3. Planes estratégicos - Rigen el rumbo general de la empresa; se basan en los objetivos estratégicos y son ejecutados en el medio-largo plazo.
+
+#### Niveles organizacionales
+
+De acuerdo a sus funciones y alcance, existen cuatro niveles organizacionales (Colegio Romera): 
+
+1. Nivel corporativo - Define la estrategia empresarial, se basa en habilidades conceptuales, es la etapa de la planeación estratégica, define los objetivos organizacionales y planea las decisiones.
+2. Nivel divisional - La estrategia es divisional, se basa en habilidades humanas, la planeación es táctica y los objetivos son divisionales.
+3. Nivel funcional - Establece la estrategia política, se basa en habilidades humanas, la planeación es táctica y sus objetivos son departamentales.
+4. Nivel operacional . Define la estrategia operacional, se basa en las habilidades técnicas, la planeación es operacional, los objetivos individuales y las decisiones no programadas.
+
+Para la planeación, es importante reconocer adecuadamente el nivel organizacional en el que nos encontramos, de lo contrario, podríamos estar abarcando de más, o de menos.
+
+#### Proceso de planeación
+
+El proceso administrativo determina una serie de pasos definidos para establecer una planeación de forma eficaz. Los pasos son ocho (ITSON), y se enlistan a continuación:
+
+1. Detección de necesidades - El punto de partida; se define qué es lo que se necesita en función de un análisis interno, y el problema que se trata de resolver.
+2. Establecimiento de objetivos - Se definen los resultados esperados para la empresa y para las unidades independientes dentro de esta.
+3. Desarrollo de premisas - Los pronósticos y políticas servirán como premisa para establecer, difundir y obtener consenso para la resolución del problema.
+4. Determinación de cursos alternativos de acción - La búsqueda de las posibles acciones que se deben tomar, especialmente aquellos que no son evidentes.
+5. Evaluación de cursos alternativos de acción - Se ponen todas las opciones en la mesa y se evalúan para ponderar en función de las premisas y metas establecidas anteriormente.
+6. Selección de un curso de acción - Es el paso que se adopta el mejor plan de la lista de planes disponibles.
+7. Formulación de planes derivados - Se establecen planes secundarios que apoyarán al plan primario.
+8. Expresión numérica de los planes a través del presupuesto - Consiste en elaborar un presupuesto que establezca los montos necesarios para llevarlo a cabo.
+
 ### Toma de decisiones
 
 Así como en la vida personal, en una empresa se deben tomar una cantidad importante de decisiones que determinarán su rumbo. El proceso de toma de decisiones ha sido estudiado ampliamente en sus diferentes aspectos: individual o grupal, modelos, barreras, incertidumbre, entre otros.
