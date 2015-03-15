@@ -1,5 +1,10 @@
 ### Introducción
 
+El liderazgo es un tema tan complejo e intrigante como trascendente para una organización; tanto de fines lucrativos como no. Un buen líder debe realizar el trabajo de guía, mentor y motivador, procurando liderar a sus subordinados mediante medios positivos; pero también debe aplicar la fuerza y la mano dura, en el momento preciso. El reconocer los momentos para el uso de cada una de estas prácticas es, tal vez, el talento más importante de un líder.
+
+En el tema del desarrollo sustentable, nos estamos enfrentando en un problema enorme: la población va a aumentar y no sabemos si tenemos los recursos suficientes para proveerles una calidad de vida suficiente; mucho menos sabemos si será sustentable.  
+Y no sólo es el futuro, actualmente tenemos un serio problema de desigualdad, en el que un porcentaje muy bajo se lleva la mayoría de los recursos.
+
 ---
 
 ### Liderazgo y desarrollo sustentable
@@ -91,3 +96,5 @@ Sin embargo, no todo es oscuridad. Hay esperanza, impulsada principalmente por l
 
 ### Conclusiones
 
+Como vimos, estamos frente a un problema muy serio que tendremos que resolver en muy poco tiempo, o el futuro de la raza humana estará en peligro. Actualmente hay avance en diferentes áreas; filtros de agua de última generación, impulsados por Bill Gates Foundation; alternativas para generar más comida, de forma más barata y accesible; Internet abriendo las mentes de jovenes en países de tercer mundo, proveyéndoles oportunidades de crecimiento al alcance de sus manos; e incluso, viajes espaciales, buscando otros planetas en los cuales podamos vivir.  
+El problema, sin embargo, es tan complejo, que incluso encontrando solución a todos estos problemas, no se asegura acabar, por ejemplo, con el hambre. Una gran variedad de factores son los que no permiten terminar con la desnutrición; desde económicos hasta políticos. No se trata sólo de hacer más comida, se trata de hacerla llegar.
