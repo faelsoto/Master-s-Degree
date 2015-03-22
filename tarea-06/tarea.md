@@ -49,6 +49,35 @@ Cualquier grupo pasará por cinco etapas necesarias para su desarrollo (Comporta
 4. Desempeño - La estructura funcional es aceptada por completo. La energía del grupo se ha transferido de conocer y entenderse uno al otro, a llevar a cabo la tarea de que se trate.
 5. Terminación - Para los grupos de trabajo permanentes, la anterior etapa es la final. Sin embargo, para grupos temporales con un objetivo trazado, hay una etapa de terminación. Su enfoque es en cerrar las actividades y los lazos amistosos.
 
+### Motivación
+
+Comencemos definiendo «motivación» (Wikipedia):
+
+> La palabra motivación deriva del latín motivus o motus, que significa ‘causa del movimiento’. La motivación puede definirse como «el señalamiento o énfasis que se descubre en una persona hacia un determinado medio de satisfacer una necesidad, creando o aumentando con ello el impulso necesario para que ponga en obra ese medio o esa acción, o bien para que deje de hacerlo».
+
+#### El dinero como motivador
+
+Creemos erróneamente que el único motivador de las personas es el dinero. Que si un empleado necesita motivación, la empresa puede abrir la cartera y ofrecerle más.  
+La naturaleza humana es mucho más compleja que esto. En un estudio por el Premio Nobel de Economía en 2002, el psicólogo Daniel Kahneman, encontró que al ofrecer un día entero de salario a cambio de realizar de forma eficiente una tarea de una hora, los sujetos se sintieron más motivados; pero al incrementar la recompensa a 2 semanas, el sujeto no se sentía más motivado, y al aumentarlo a 5 meses, la reacción fue negativa, llevando a paralizar y a pensar en que, de fallar, se perdería esta cantidad, el nivel de estrés subió y se bloquean los recursos mentales para realizar la tarea (RyR Consultores, 2014).
+
+#### Otros motivadores
+
+Existen otras formas de motivar al personal (QuimiNet, 2013), entre ellas se enlistan:
+
+1. Sé agradecido.
+2. Dedica tiempo a tus trabajadores.
+3. Proporciona feedback (retroalimentación, información del proceso).
+4. Cuida el ambiente de trabajo.
+5. Proporciona información sobre la empresa.
+6. Involucra a los empleados.
+7. Fomenta la autonomía.
+8. Establece alianzas con cada trabajador.
+9. Celebra los éxitos.
+10. Utiliza el desempeño para discriminar la tarea realizada.
+
+Como se vio en el estudio mencionado anteriormente, el dinero no lo es todo. El aspecto psicológico juega un importante papel en el aspecto motivacional. La mayoría de estos puntos se enfocan a reforzar el aspecto anímico con respecto a la empresa. Uno de los puntos más importantes, pero que son menos considerados el cuidar el ambiente de trabajo.  
+En este sentido, la infraestructura es uno de los puntos más importantes. La empresa puede recompensar al empleado con una mejor silla, un mejor escritorio o una mejor computadora.
+
 ---
 
 ### Conclusiones
