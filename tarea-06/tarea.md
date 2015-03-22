@@ -24,6 +24,31 @@ Las principales diferencias entre un equipo y un grupo (Slideshare) son:
 9. En un grupo, los integrantes son expertos en algo, pero ignoran el contexto general; en un equipo todos aprenden de todos y se sienten responsables del contexto general.
 10. En un grupo, el líder decide y los demás sólo obedecen; en un equipo, las decisiones surgen del consenso de los integrantes.
 
+En resumen, el grupo es una unidad de dos o más personas, minetras que el equipo es una unidad coordinada de dos o más personas que persiguen el mismo fin, para beneficio de todos.
+
+#### Tipos de grupos
+
+Los grupos se separan en dos grandes vertientes: formales o informales (IU Puebla), que a su vez se subdividen.
+
+- Grupos formales - Son creados por una organización con el propósito de alcanzar sus objetivos.
+  - Grupos de mando - Se representant como un gurpo de subordinados que informan directamente a un supervisor.
+  - Grupos laborales - Conjunto de empleados que trabajan juntos para terminar un proyecto o trabajo.
+- Grupos informales - Están formados, principalmente, por razones de amistad. No hay un control directo, aunque sí indirectamente. Se basa en la interacción y la comunicación.
+  - Grupos de interés - Surgen cuando los trabajadores se reúnen para afrontar un objetivo en común, por ejemplo, un plan de jubilación equitativo. Este tipo de grupos desaparecen al alcanzar el objetivo.
+  - Grupos de amistad - Tienen su origen en cuestiones comunes como la edad, las aficiones, el origen. Suelen desarrollar actividades ajenas al trabajo.
+
+También existen grupos especiales, entre ellos el más común es denominado «comité». En este, se coopera para lograr un objetivo, resolver conflictos, sugerir acciones, generar ideas y tomar decisiones. El presidente del comité es quien lo dirige, mientras que de los integrantes se espera cooperación para alcanzar los objetivos.
+
+#### Etapas de desarrollo de un grupo
+
+Cualquier grupo pasará por cinco etapas necesarias para su desarrollo (Comportamiento Organizacional), como veremos a continuación.
+
+1. Formación - Es caracterizada por una gran incertidumbre relacionada al propósito. Sus miembros «prueban el agua» para determinar cuáles comportamientos son aceptables. Esta etapa finaliza cuando los miembros se sienten parte del grupo.
+2. Etapa de tormenta - Es la fase del conflicto al interior del grupo, impulsada por la aceptación del grupo mientras se resisten a las limitantes respecto a la individualidad. Esta etapa finaliza cuando hay una jerarquía relativamente clara dentro del grupo.
+3. Normalización - Se desarrollan relaciones cercanas y el grupo demuestra cohesión. Termina cuando la estructura del grupo se solidifica y este ha asimilado un conjunto común de expectativas que definen el comportamiento correcto de sus miembros.
+4. Desempeño - La estructura funcional es aceptada por completo. La energía del grupo se ha transferido de conocer y entenderse uno al otro, a llevar a cabo la tarea de que se trate.
+5. Terminación - Para los grupos de trabajo permanentes, la anterior etapa es la final. Sin embargo, para grupos temporales con un objetivo trazado, hay una etapa de terminación. Su enfoque es en cerrar las actividades y los lazos amistosos.
+
 ---
 
 ### Conclusiones
