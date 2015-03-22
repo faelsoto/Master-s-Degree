@@ -78,6 +78,80 @@ Existen otras formas de motivar al personal (QuimiNet, 2013), entre ellas se enl
 Como se vio en el estudio mencionado anteriormente, el dinero no lo es todo. El aspecto psicológico juega un importante papel en el aspecto motivacional. La mayoría de estos puntos se enfocan a reforzar el aspecto anímico con respecto a la empresa. Uno de los puntos más importantes, pero que son menos considerados el cuidar el ambiente de trabajo.  
 En este sentido, la infraestructura es uno de los puntos más importantes. La empresa puede recompensar al empleado con una mejor silla, un mejor escritorio o una mejor computadora.
 
+#### Tu lenguaje corporal define quién eres
+
+En un estudio de psicología social, por Amy Cuddy, se encontró que por tener una pose de alto poder durante 2 minutos, un individuo puede cambiar radicalmente cómo se siente de sí mismo (TED, 2012).
+
+Una pose de alto poder se basa en expander el cuerpo, en hacerlo más grande a través de estirar las extremidades, ya sea parado o sentado. Estos cambios, el estudio revela, elevan los niveles de testosterona y coritsona, teniendo como resultado una mayor confianza en torno al riesgo, un mejor desempeño en entrevistas de trabajo y permite al cerebro actuar mejor en situaciones con estrés.
+
+Como conclusión de este estudio podemos denotar que la motivación es intrínseca. Que el empleado esté convencido de su trabajo es, probablemente, la mejor forma de motivación. Aún así, la empresa debe tener un clima laboral apropiado y un espacio para implementar estas técnicas.
+
+#### Origen de la motivación
+
+La motivación puede venir de dos fuerzas: internas, o externas (Prezi, 2013). También denominadas como de empuje o arrastre, estas se pueden desplegar de la siguiente forma:
+
+- Fuerzas internas, o de empuje
+  - Características del individuo
+    - Necesidades (seguridad, autoestima, logro, poder)
+    - Actitudes (respecto a sí mismo, al trabajo, al supervisor, a la organización)
+    - Metas (finalizar actividades, nivel de desempeño, desarrollo y progreso profesional)
+- Fuerzas externas, o de arrastre
+  - Puesto de trabajo
+    - Retroalimentación (cantidad, tiempo)
+    - Carga de trabajo
+    - Tareas y actividades
+    - Discreción
+  - Situación laboral
+    - Entorno social inmediato (supervisores, equipo, subalternos)
+    - Acciones organizacionales (recompensas, capacitación, presión por alcanzar resultados)
+
+Utilizar ambas aristas es fundamental para mantener la motivación de grupos e individuos.
+
+#### Teorías del contenido
+
+Se enfocan en qué necesidades intenta satisfacer un individuo y qué características del ambiente laboral parecen satisfacer tales necesidades. Estas teorías buscan explicar la motivación identificando tanto a los factores internos como los externos (Prezi, 2013).  
+Sus tres principales exponentes son:
+
+1. Teoría de las necesidades de Maslow  
+Establece que los individuos satisfacen primero las necesidades básicas, como las fisiológicas y de seguridad para después cubrir otras necesidades, como las sociales, autoestima y autorrealización.
+2. Teoría de las necesidades adquiridas  
+Desarrollada por el psicólogo David McClelland. Esta teoría se centra en las necesidades aprendidas que se vuelven predisposiciones duraderas en cunato a afiliación, poder y logro.
+3. Teoría bifactorial  
+Desarrollada por Frederick Herzberg. Se enfoca en los diferentes efectos de los factores que incrementan la satisfacción laboral (motivadores) y aquellos que evitan la insatisfacción (factores de higiene).
+
+##### Teorías del contenido
+
+Por el otro lado, las teorías del proceso se basan en tratar la relación entre las diversas variables y su combinación para influir en la capacidad de esfuerzo que la gente aporta. Se dividen principalmente en dos:
+
+1. Teoría de la equidad  
+Desarrollada por el psicólogo Stacy Adams. Propone que los individuos comprarán sus circunstancias con las de las otras personas y que tales comparaciones motivarán ciertas conductas.
+2. Teoría de la expectativas  
+Formulada por Victor Vroom. Se centra en el proceso mental que la gente utiliza cuando se enfrenta a diversas alternativas de elección, en especial a alternativas de curso de acción.
+
+#### Reforzadores
+
+Parte de la motivación son las consecuencias positivas y negativas. Esto es denominado condicionamiento operante y se basa en realizar las conductas de consecuencias atractivas y no realizar conductas de consecuencias aversivas (Academia.edu, 2013).
+
+Reforzador  
+Factor extrínseco que aumenta la conducta. Se necesita seleccionar un suceso conociendo a priori su efecto sobre la conducta.
+
+- Reforzador positivo  
+Estímulo que, al presentarse, aumenta la probabilidad de la conducta deseada.
+- Refuerzo negativo  
+Estímulo que, al eliminarse, aumenta la probabilidad de la conducta deseada.
+- Castigo  
+Estímulo ambiental que, al presentarse, reduce la probabilidad de una conducta indeseable. Esta es una estrategia motivacional ineficaz.
+
+También está el aspecto de recompensas, que es cualquier cosa que una persona da a otra a cambio de sus servicios o logros.  
+Sin embargo, las recompensas tienen costos ocultos:
+
+- Socava la motivación intrínseca
+- Interfiere con la calidad y el proceso de aprendizaje
+- Interifere en el desarrollo de la autorregulación autónoma
+
+Como vimos anteriormente, una de las fuerzas motivacionales más importantes es la que el mismo individuo presenta. Al prometer recompensas, podemos disminuir su motivación, o distraerlo del objetivo.  
+Es importante notar que si las recompensas son inesperadas o verbales, estas no disminuirán la motivación.
+
 ---
 
 ### Conclusiones
