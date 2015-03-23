@@ -1,5 +1,8 @@
 ### Introducción
 
+Para una organización, el tema de equipos y motivación es tan fundamental como difícil de implementar, y aún más, de mantener. El recurso humano, sin duda, es el elemento más importante de una organización, pero también el más difícil de controlar y dirigir. La naturaleza humana es misteriosa, variable, contextual y adaptativa; lo que sabemos es muy poco, puede funcionar en una persona, pero no en otra, a pesar de que podrían tener el mismo perfil y características socioculturales. Más complicado aún, podría funcionar alguna vez en una persona, y en otra ocasión no, para el mismo individuo; dependiendo de su contexto.  
+Como si fuera un virus, los seres humanos nos adaptamos a las condicionantes motivacionales, teniendo efectos decrecientes en el nivel de motivación. Puede que un elemento nos motive a realizar la tarea; pero eventualmente, este elemento dejará de tener tanto valor para nosotros.
+
 ---
 
 ### Motivadores en un ambiente laboral
@@ -155,3 +158,9 @@ Es importante notar que si las recompensas son inesperadas o verbales, estas no 
 ---
 
 ### Conclusiones
+
+Conocer las diferentes caras de la motivación nos ayuda a entender más de la naturaleza humana. Tal y como se mencionó en la introducción, esta es un enigma total; una consecuencia de una cantidad casi infinita de variables.
+
+De estas variables, tal vez, la menos entendida es el dinero. Como se vio en el experimento, el aumento de la motivación al tener una recompensa monetaria no es lineal; no nos sentimos el doble de motivados de recibir 2 veces nuestro salario que 4. Peor aún, la gráfica podría ser una campana, cayendo cuando la cantidad es demasiado grande para que nuestro cerebro pueda procesarla; paralizándonos y temiendo lo que podría suceder de no poder terminar la tarea satisfactoriamente con tanto qué perder.
+
+Sin mucha sorpresa, la motivación más efectiva es intrínseca; la que sale del propio individuo, por convicción propia. Esta ciencia, como muchas otras que estudian la naturaleza humana, es inexacta, pero los experimentos han demostrado un método repetible. Las organizaciones deben encontrarle provecho a esta técnica y propiciar un ambiente donde puedan ayudarle al personal a generar su propia motivación.
