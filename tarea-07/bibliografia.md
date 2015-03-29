@@ -3,3 +3,9 @@
 3. Universidad de la Rioja: Comunicación no verbal, http://www.unirioja.es/cu/cagonzme/TemasRRHH/Tema%205.doc, visitado 26/Mar/2015
 4. INSHT: La comunicación en las organizaciones, http://www.insht.es/InshtWeb/Contenidos/Documentacion/FichasTecnicas/NTP/Ficheros/601a700/ntp_685.pdf, visitado 28/Mar/2015
 5. FES: Comunicación y negociación efectiva: manual del participante, http://library.fes.de/pdf-files/bueros/mexiko/08627.pdf, visitado 28/Mar/2015
+6. UB: Implementación de la estrategia, http://diposit.ub.edu/dspace/bitstream/2445/13220/6/Implementaci%C3%B3n%20de%20la%20estrategia%20%28Parte%20cuarta%29.pdf, 29/Mar/2015
+7. UAG: Reclutamiento, http://genesis.uag.mx/edmedia/material/RH/reclutamiento.pdf, visitado 29/Mar/2015
+8. UDLAP: Marco teórico, http://catarina.udlap.mx/u_dl_a/tales/documentos/lad/blanco_s_nl/capitulo2.pdf, visitado 29/Mar/2015
+9. RRHH-Web: capacitación, http://www.rrhh-web.com/capacitacion.html, visitado 29/Mar/2015
+10. Grupo Argos: Productividad, Formación y Capacitación de los Trabajadores, http://www.grupoargos.com.mx/ley-federal-del-trabajo-art153/, visitado 29/Mar/2015
+11. Coyuntura Económica: Diseño de los puestos de trabajo, http://coyunturaeconomica.com/recursos-humanos/diseno-de-puestos-de-trabajo, visitado 29/Mar/2015
