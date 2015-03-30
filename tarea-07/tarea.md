@@ -123,6 +123,60 @@ Para definir un puesto de trabajo se tienen que establecer los siguientes concep
 4. Conocimientos: una descripción del nivel de capacidades adquiridas para poder realizar exitosamente las tareas del puesto.
 5. Capacitación: el entrenamiento necesario para cumplir con el cargo de manera eficaz.
 
+#### Retroalimentación del desempeño
+
+El objetivo de los planes de retroalimentación es evaluar, medir y tomar acción sobre el desempeño del personal dentro de una organización.
+
+Existen dos formas básicas de medir el desempeño: métodos con base en el pasado y métodos con base en el futuro (RRHH-Web).
+
+- Métodos de evaluación con base en el pasado
+  - Escalas de puntuación
+  - Listas de verificación
+  - Método de selección forzada
+  - Método de registro de acontecimientos notables
+  - Escalas de calificación conducutal
+  - Método de verificación de campo
+  - Enfoques de evaluación comparativa
+- Métodos de evaluación con base en el desempeño futuro
+  - Auto evaluaciones
+  - Administración por objetivos
+  - Administraciones psciológicas
+
+En ambos casos, los métodos varían en sus metas y objetivos; algunos son hechos por el mismo empleado, en otros por un comité, en unos más son por sus superiores o similares. Algunos son de carácter cuantitativo, mientras otros se enfocan en el aspecto cualitativo.  
+Evidentemente cada uno tiene ventajas y desventajas, es la labor del administrador evaluar con un ojo crítico cada una de estas alternativas, investigar el posible sesgo que puede existir y la fuente, y determinar el mejor método para su organización.
+
+#### Remuneración
+
+No debemos de olvidar que el área de recursos humanos también tiene como responsabilidad la remuneración. Los objetivos de las remuneraciones las podemos ver en cinco dimensiones (Koiwe):
+
+1. Atracción de personal calificado
+2. Retener colaboradores
+3. Remuneración equitativa
+4. Garantizar la igualdad
+5. Controlar costos
+
+En resumen, todos estos objetivos se refieren a poder atraer y retener al mejor personal, manteniendo una equidad y balance en las remuneraciones y lograr así un control de gastos.
+
+#### Aspectos legales
+
+Las obligaciones legales de la empresa son amplias y variadas. La más importante de ellas es la Ley Federal del Trabajo, misma que se dice que es injusta para el patrón (La Unión, 2012).
+
+Precisamente por esta razón es importante que en la administración de recursos humanos, en primera instancia, se comprenda al pie de la letra la ley. Y en segunda, sea respetada.
+
+Las áreas que RRHH tiene a su cargo y tienen potencial de ser parte de una controversia legal son (Acopesa):
+
+- Contratos
+- Reglamento interno de trabajo
+- Libro de salarios
+- Llamadas de atención
+- Suspensión de labores
+- Nómina
+- Vacaciones
+- Liquidaciones
+- Cálculo de impuestos
+
+Los conflictos legales tienen que ser evitados a toda costa. Seguir las indicaciones legales al pie de la letra es un buen primer paso.
+
 ---
 
 ### Conclusión

@@ -9,3 +9,6 @@
 9. RRHH-Web: capacitación, http://www.rrhh-web.com/capacitacion.html, visitado 29/Mar/2015
 10. Grupo Argos: Productividad, Formación y Capacitación de los Trabajadores, http://www.grupoargos.com.mx/ley-federal-del-trabajo-art153/, visitado 29/Mar/2015
 11. Coyuntura Económica: Diseño de los puestos de trabajo, http://coyunturaeconomica.com/recursos-humanos/diseno-de-puestos-de-trabajo, visitado 29/Mar/2015
+12. RRHH-Web: La evaluación de desempeño en la administración de los recursos humanos, http://www.rrhh-web.com/evaluaciondepuesto3.html, visitado 29/Mar/2015
+13. La Unión: La Ley Federal del Trabajo, justa o injusta, http://www.launion.com.mx/opinion/miradas-al-mundo-del-trabajo/noticias/43639-la-ley-federal-del-trabajo-justa-o-injusta.html, visitado 29/Mar/2015
+14. Acopesa: Asesoría legal en recursos humanos, http://www.acopesa.net/index.php?option=com_content&view=article&id=30:asesoria-legal-en-recursos-humanos&catid=6:servicios&Itemid=86, visitado 29/Mar/2015
