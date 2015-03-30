@@ -1,5 +1,12 @@
 ### Introducción
 
+La comunicación no es simplemente una necesidad; es la base de toda la organización. Una comunicación efectiva puede evitar muchos malentendidos, agilizar las negociaciones y ofrecer un clima de respeto entre los miembros de esta.
+
+Para poder mejorar la comunicación, sin embargo, tenemos que comprenderla, empezando desde el modelo básico de comunicación pasando por las barreras y los canales.
+
+Complementando el punto anterior, la administración de recursos humanos es el área que se encarga de todas las relaciones del personal con la empresa. Es su responsabilidad no sólo comenzar estas relaciones, sino mantenerlas, mejorarlas, motivarlas, e incluso, finiquitarlas.  
+En este capítulo veremos los puntos clave de ambos rubros.
+
 ---
 
 ### Comunicación
@@ -180,3 +187,12 @@ Los conflictos legales tienen que ser evitados a toda costa. Seguir las indicaci
 ---
 
 ### Conclusión
+
+Los humanos somos complicados. Nuestras relaciones con los demás, lo son en mayor medida. Y cuando se trata de una organización, es aún más complejo el asunto. En este capítulo vimos el tema de comunicación para posteriormente pasar a la administración de recursos humanos, un área clave en las empresas.
+
+La tarea de reclutar no es sencilla, es una labor que depende de cientos de variables, especialmente cuando se trata de un puesto clave. Un proceso de reclutamiento correcto puede darle un rumbo diferente a la empresa, lo mismo que uno fallido, sólo que en direcciones distintas.
+
+Por si esto no fuera poco, el administrador de recursos humanos debe mantener la motivación, el equilibrio y el balance del personal, sus compañeros y sus salarios. Es común que en una empresa se disparen algunos de estos indicadores. Si el administrador hace correctamente su labor, esto no debería suceder, ya que no sólo propicia un gasto extra a la empresa; también tiene importantes repercusiones en el resto del personal.
+
+Y por si fuera poco, la tarea más difícil: romper relaciones. Aunque en la mayoría de las veces no se trata de algo personal, los seres humanos somos impredecibles, y emocionales. Perder (o salir) de un trabajo tiene cientos de motivos, de los cuales algunos pocos son positivos. E incluso ahí, los sentimientos juegan un papel importante. Imaginemos lo que sucede cuando es una separación de forma menos amistosa.  
+Cualquier administrador que se tope con este problema debe permanecer profesional, serio y empático. Y no sólo en esta situación, sino en todas las del andar diario de la organización.
