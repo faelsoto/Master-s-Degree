@@ -151,6 +151,24 @@ Un sistema de control eficaz varía en su determinación según casos específic
 - Flexibilidad, capacidad de ajustarse
 - Economía, cuyos costos no sean altos
 
+### Ventajas y desventajas del desarrollo organizacional
+
+A pesar de ser una metodología ampliamente usada, el desarrollo organizacional, así como tiene sus virtudes, también tiene sus desventajas.
+
+##### Ventajas
+
+- Se basa en conceptos humanitarios, de desarrollo del personal
+- Refuerza las relaciones entre los trabajadores, jefes y dirección
+- Mejora el trabajo en equipo
+- Los empleados guían a la empresa
+- Aumenta la motivación de los empleados
+
+##### Desventajas
+
+- Puede ocasionar que las decisiones que tomen los empleados sean para su beneficio y no de la empresa
+- La apatía de las partes puede truncar los esfuerzos del desarrollo organizacional
+- No es sencillo de implementar si los trabajadores no están motivados y creen en el bienestar común
+
 ----
 
 ### Conclusiones
