@@ -1,5 +1,11 @@
 ### Introducción
 
+Una empresa, como definición, es un grupo de individuos que se juntan para lograr un fin en común. Desafortunadamente esta definición resulta muy romántica para lo que es en la realidad. Los patrones ven a los trabajdores como piezas intercambiables en una maquinaria que busca antes que nada reducir sus costos e incrementar sus utilidades. Por el otro lado, frases como "hacen como que me pagan, hago como que trabajo" son comunes entre los empleados.
+
+Esta situación no debería ser así; los empleados deberían hacer su trabajo lo mejor posible, primero, porque por eso les están pagando, independientemente de si es mucho o poco; y segundo, por demostrar su valor en la empresa. Una organización debe tener muy en claro el ganar-ganar, para que el fin común de los individuos sea alcanzado.
+
+En este ensayo veremos desarrollo organizacional y control, una es una metodología que busca involucrar a los empleados para con la empresa, con el fin de llegar a metas en común. El otro es la fase final del proceso administrativo, cuya función es medir, evaluar y corregir el rumbo que la organización tiene.
+
 ----
 
 ### Desarrollo organizacional
@@ -173,3 +179,6 @@ A pesar de ser una metodología ampliamente usada, el desarrollo organizacional,
 
 ### Conclusiones
 
+El desarrollo organizacional persigue metas que benefician tanto a la empresa como a los trabajadores. Desafortunadamente una implementación satisfactoria requiere de varios elementos en la empresa: motivación, compromiso, sentido de pertenencia e incluso educación y cultura. De otra forma, el plan podría no sólo salir mal, sino ir contrario a los objetivos de la empresa.
+
+El control como parte del proceso administrativo es clave para la implementación del desarrollo organizacional y de los objetivos estratégicos dentro de la organización; sirve para mantener el rumbo, midiendo, evaluando y corrigiendo.
