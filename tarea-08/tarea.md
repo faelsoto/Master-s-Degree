@@ -72,6 +72,85 @@ Los seres humanos somos renuentes ante el cambio; si algo o alguien atenta en co
 
 Para combatir la resistencia se deben utilizar las diversas herramientas que tenemos a nuestra disposición: negociación, comunicación, la credibilidad, una visión compartida y las ventajas (GestioPolis, 2003)
 
+#### Evaluación de los resultados
+
+El último paso del cambio en el proceso organizacional se enfoca a la evaluación de resultados. Se señala (The OD Institute) que todo proceso de evaluación debe considerar dos áreas clave: las "blandas" y las "duras". Las primeras se refieren a la satisfacción del trabajo, y las segundas al dato cuantitativo, como podría ser la rotación del personal. En otras palabras, hay que prestar atención no sólo a los datos que se pueden cuantificar; sino a los cualitativos.
+
+Las evaluaciones pueden pertenecer a una de tres categorías:
+
+1. Formativa, que se realiza durante la intervención
+2. Sumativa, que se realiza inmediatamente después de haberse completado la intervención
+3. Longitudinal, que es realizada en un momento preciso, después de haberse completado la intervención.
+
+Las evaluaciones deben servir para responder las siguientes preguntas:
+ 
+- ¿Vamos en la dirección correcta?
+- ¿Vamos a la velocidad apropiada?
+- ¿Es requerida la persistencia?
+- ¿La intensidad es compatible con las necesidades del proyecto?
+
+Las evaluaciones, en concreto, son una guía para determinar si el cambio ha sido implementado exitosamente.
+
+### Control
+
+El control es la última fase del proceso administrativo y su función es la definición de estándares para medir el desempeño y corregir desviaciones y garantizar que se realice la planeación (Slideshare). 
+
+#### Elementos básicos
+
+Son cuatro áreas importantes las que deben ser consideradas en el proceso del control (Slideshare):
+
+1. Establecer normas y métodos para medir el rendimiento
+2. Medir los resultados
+3. Tomar medidas correctivas
+4. Retroalimentación
+
+El proceso de establecer estándares, o normas, debe estar sentado en términos claros y mesurables, que incluyan plazos específicos (EcuRed). Las metas definidas vagamente, como "mejorar el ambiente laboral" no son efectivas para la evaluación; por el contrario, estableciendo qué, quién, cuándo, dónde y para qúé, en términos cualitativos nos ayudará al siguiente paso.
+
+Medir el desempeño es comparar los estándares en contra de lo que se obtuvo en realidad. Como se mencionó, entre más cuantitativo sea el estándar, más fácil será de medirlo. El siguiente paso es tomar medidas correctivas, que pueden variar desde establecer nuevos parámetros, modificarlos, cambiar las actividades o incluso empezar desde cero. Finalmente la etapa de retroalimentación busca encontrar otras opiniones en torno al proceso realizado.
+
+#### Control estratégico
+
+Es un sistema cuyo propósito es medir la congruencia, eficiencia, eficacia y efectividad en el logro de las metas estratégicas (IPN). El sistema de control estratégico contesta las tres preguntas clave de la gerencia:
+
+1. ¿Qué tenemos?
+2. ¿Qué vamos a hacer?
+3. ¿Cómo y quiénes lo haremos?
+
+El control estratégico se enfoca en el rumbo de la empresa, el establecimiento de objetivos y metas y las formulaciones de misión, visión y valores, mismos que guiarán su proceder, y cuyo alineamiento es vital para lograr los objetivos.
+
+#### Control táctico
+
+Es una capa intermedia de la organización; su función es el control por departamentos. En este se deben establecer metas y objetivos particulares de cada área, siguiendo los lineamientos estratégicos (UNAL). Se establecen tareas, funciones y responsables de cada una de las metas tácticas que se buscan alcanzar.
+
+#### Control operacional
+
+Es el subsistema de control efectuado en el nivel de ejecución de las operaciones (UNAL), en este se establece, específicamente y paso por paso, qué se va a hacer para poder conseguir los objetivos tácticos y, como consecuencia, los estratégicos.
+
+#### Control presupuestal
+
+El objetivo de un control presupuestario se enfoca en establecer la cantidad de recursos disponibles para realizar una tarea específica en un área de la empresa, y medir qué tanto se ha gastado en contra de los resultados obtenidos.
+
+#### Control de recursos humanos
+
+Su enfoque se centra en la evaluación de la efectividad en la implantación y ejecución de todos los programas de personal, así como del cumplimiento de los objetivos del departamento de Recursos Humanos (Bligoo).
+
+Podemos diferenciar los estándares en siete: auditoría en recursos humanos; evaluación de la actuación; evaluación del reclutamiento y selección; evaluación de capacitación y desarrollo; evaluación de la motivación; evaluación de sueldos y salarios y evaluación sobre higiene, seguridad y servicios y prestaciones.
+
+#### Eficacia del control
+
+Un sistema de control eficaz varía en su determinación según casos específicos, pero como generalidad podemos señalar que presentan la mayoría de las siguientes características (Slideshare):
+
+- Precisión, que la información sea concreta
+- Oportunidad, que el control sea hecho en el momento correcto
+- Acción correctiva, cuyo enfoque sea corregir la acción
+- Criterios múltiples, que tome en cuenta diferentes variables
+- Énfasis en las excepciones, que se busque corregir las excepciones, más que lo habitual
+- Localización estratégica, se refiere a delegar
+- Criterios razonables, alcanzables y reales
+- Inteligibilidad, fácil de comprender
+- Flexibilidad, capacidad de ajustarse
+- Economía, cuyos costos no sean altos
+
 ----
 
 ### Conclusiones
